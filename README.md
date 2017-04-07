@@ -1,2 +1,2 @@
 # ImcCalculator
-Calculadora de IMC com vuejs
+Projetinho simples com Vuejs e Materialize, com o intuito de testar o Vue e por-lo em prática um pouco :)
